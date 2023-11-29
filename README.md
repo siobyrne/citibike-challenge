@@ -4,9 +4,11 @@ This project uses Tableau to analyze data from the CitiBike website ( https://ci
 ## Visualizationns
 Below are the links to various visualizations created and uploaded to Tableau Public.
 
-1) Dashboard - Member vs Casual User Utilization Insights ( https://public.tableau.com/app/profile/siobhan.byrne/viz/CitiBike-UtilizationInsights/Dashboard1 )
+1) Dashboard - Member vs Casual User Utilization Insights 
+( https://public.tableau.com/app/profile/siobhan.byrne/viz/CitiBike-UtilizationInsights/Dashboard1 )
 
-2) Dashboard - Start Station Utilization Insights ( https://public.tableau.com/app/profile/siobhan.byrne/viz/CitiBike-StartStationInsights/Dashboard2 )
+2) Dashboard - Start Station Utilization Insights 
+( https://public.tableau.com/app/profile/siobhan.byrne/viz/CitiBike-StartStationInsights/Dashboard2 )
 
 3) Story ( https://public.tableau.com/app/profile/siobhan.byrne/viz/CitiBike-Story_17012714463470/Story1 )
 
